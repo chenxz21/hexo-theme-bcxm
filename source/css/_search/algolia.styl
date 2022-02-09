@@ -1,0 +1,58 @@
+#algolia-search
+  .search-dialog
+    .ais-SearchBox
+      input
+        padding: 5px 14px
+        width: 100%
+        outline: none
+        border: 2px solid $search-color
+        border-radius: 40px
+        background: var(--search-bg)
+        color: var(--search-input-color)
+
+    .ais-Hits-list
+      padding-left: 24px
+      @extend .list-beauty
+
+      a
+        color: var(--search-result-title)
+
+        &:hover
+          color: $search-color
+
+      mark
+        background: transparent
+        color: $search-keyword-highlight
+        font-weight: bold
+
+    .ais-Pagination
+      margin: 16px 0 0
+      padding: 0
+      text-align: center
+
+      .ais-Pagination-list
+        padding: 0
+        list-style: none
+
+      .ais-Pagination-item
+        display: inline
+        margin: 0 4px
+        padding: 0
+
+        .ais-Pagination-link
+          display: inline-block
+          min-width: 24px
+          height: 24px
+          text-align: center
+          line-height: 24px
+
+      .ais-Pagination-item--selected
+        a
+          background: $theme-paginator-color
+          color: #eee
+          cursor: default
+
+    .algolia-logo
+      padding-top: 2px
+      width: 80px
+      height: 30px

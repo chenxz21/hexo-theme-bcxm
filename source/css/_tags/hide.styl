@@ -1,0 +1,58 @@
+// tag-hide
+.hide-inline,
+.hide-block
+  & > .hide-button
+    display: inline-block
+    padding: 6px 20px
+    background: $tag-hide-bg
+    color: var(--white)
+
+    &:hover
+      background-color: var(--btn-hover-color)
+
+    &.open
+      display: none
+
+      & + div
+        display: block
+
+      & + span
+        display: inline
+
+  & > .hide-content
+    display: none
+
+.hide-inline
+  & > .hide-button
+    margin: 0 6px
+
+  & > .hide-content
+    margin: 0 6px
+
+.hide-block
+  margin: 0 0 16px
+
+.hide-toggle
+  margin-bottom: 20px
+  border: 1px solid $tag-hide-toggle-bg
+
+  & > .hide-button
+    padding: 6px 10px
+    background: $tag-hide-toggle-bg
+    color: #1F2D3D
+    cursor: pointer
+
+    & > i
+      font-size: 1.2em
+      transition: all .3s
+
+    &.open
+      i
+        transform: rotate(90deg)
+
+      & + div
+        display: block
+
+  & > .hide-content
+    display: none
+    margin: 30px 24px
