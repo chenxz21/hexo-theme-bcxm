@@ -10,7 +10,7 @@
 
 预览: 👍 [Butterfly](https://www.chenxuezhi.top)
 
-文档: 📖 [Butterfly Docs](https://butterfly.js.org/posts/21cfbf15/)
+文档: 📖 [Butterfly Docs(暂时)](https://butterfly.js.org/posts/21cfbf15/)
 
 一款基于[hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly)修改的主题
 
