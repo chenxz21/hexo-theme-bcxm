@@ -8,7 +8,7 @@
 
 ![](https://cdn.jsdelivr.net/gh/chenxz21/public-picture@main/6.png)
 
-预览: 👍 [Butterfly](https://www.chenxuezhi.top)
+预览: 👍 [Btfly](https://www.chenxuezhi.top)
 
 文档: 📖 [Butterfly Docs(暂定)](https://butterfly.js.org/posts/21cfbf15/)
 
