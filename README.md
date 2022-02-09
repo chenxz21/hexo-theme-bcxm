@@ -23,13 +23,7 @@ Based on [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfl
 Stable branch [recommend]:
 
 ```
-git clone -b master https://github.com/chenxz21/hexo-theme-btfly.git themes/btfly
-```
-
-Dev branch:
-
-```
-git clone -b dev https://github.com/chenxz21/hexo-theme-btfly.git themes/btfly
+git clone -b main https://github.com/chenxz21/hexo-theme-btfly.git themes/btfly
 ```
 
 ## ⚙ Configuration
