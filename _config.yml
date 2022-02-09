@@ -70,11 +70,11 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /images/favicon.ico
+favicon: /img/favicon.ico
 
 # Avatar (頭像)
 avatar:
-  img: /images/avatar.jpg
+  img: /img/avatar.jpg
   effect: false
 
 # Disable all banner image
@@ -84,7 +84,7 @@ disable_top_img: true
 index_img:
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: /images/background.jpg
+default_top_img: /img/background.jpg
 
 # The banner image of archive page
 archive_img:
