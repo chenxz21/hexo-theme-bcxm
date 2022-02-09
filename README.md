@@ -18,28 +18,18 @@ Based on [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfl
 
 ### GIT
 
-> If you are in Mainland China, you can download in [Gitee](https://gitee.com/immyw/hexo-theme-butterfly.git)
+> If you are in Mainland China, you can download in [Gitee](https://gitee.com/chenxz21/hexo-theme-btfly.git)
 
 Stable branch [recommend]:
 
 ```
-git clone -b master https://github.com/jerryc127/hexo-theme-butterfly.git themes/butterfly
+git clone -b master https://github.com/chenxz21/hexo-theme-btfly.git themes/btfly
 ```
 
 Dev branch:
 
 ```
-git clone -b dev https://github.com/jerryc127/hexo-theme-butterfly.git themes/butterfly
-```
-
-### NPM
-
-> It supports Hexo 5.0.0 or later
-
-In Hexo site root directory 
-
-```powershell
-npm i hexo-theme-btfly
+git clone -b dev https://github.com/chenxz21/hexo-theme-btfly.git themes/btfly
 ```
 
 ## ⚙ Configuration
