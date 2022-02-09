@@ -6,7 +6,7 @@
 
 # hexo-theme-btfly
 
-![](https://cdn.jsdelivr.net/gh/jerryc127/CDN@m2/img/theme-butterfly-readme.png)
+![](https://cdn.jsdelivr.net/gh/chenxz21/public-picture@main/6.png)
 
 预览: 👍 [Butterfly](https://www.chenxuezhi.top)
 
