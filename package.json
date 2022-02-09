@@ -1,0 +1,31 @@
+{
+  "name": "hexo-theme-btfly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "package.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo",
+    "theme",
+    "btfly",
+    "Chenxz21",
+    "hexo-theme-btfly"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chenxz21/hexo-theme-btfly.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chenxz21/hexo-theme-btfly/issues",
+    "email": "chenxz21@outlook.com"
+  },
+  "dependencies": {
+    "hexo-renderer-stylus": "^2.0.1",
+    "hexo-renderer-pug": "^2.0.0"
+  },
+  "homepage": "https://www.chenxuezhi.top/",
+  "author": "Chenxz21 <chenxz21@outlook.com>",
+  "license": "Apache-2.0"
+}
