@@ -12,7 +12,7 @@ Demo: 👍 [Butterfly](https://butterfly.js.org/)  ||   🤞 [CrazyWong](https:/
 
 Docs: 📖 [Butterfly Docs](https://butterfly.js.org/posts/21cfbf15/)
 
-Based on [hexo-theme-melody](https://github.com/Molunerfinn/hexo-theme-melody) theme.
+Based on [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) theme.
 
 ## 💻 Installation
 
