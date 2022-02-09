@@ -6,7 +6,7 @@
 
 # hexo-theme-btfly
 
-![](https://cdn.jsdelivr.net/gh/jerryc127/CDN@m2/img/theme-butterfly-readme.png)
+![](https://cdn.jsdelivr.net/gh/chenxz21/public-picture@main/6.png)
 
 Demo: 👍 [Btfly](https://www.chenxuezhi.top)
 
