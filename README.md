@@ -20,8 +20,6 @@ Based on [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfl
 
 > If you are in Mainland China, you can download in [Gitee](https://gitee.com/chenxz21/hexo-theme-btfly.git)
 
-Stable branch [recommend]:
-
 ```
 git clone -b main https://github.com/chenxz21/hexo-theme-btfly.git themes/btfly
 ```
