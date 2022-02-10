@@ -195,11 +195,14 @@
   #post-meta
     color: var(--light-grey)
     font-size: 95%
+    .meta-firstline,
+    .meta-secondline
+      display: inline
 
     +minWidth768()
       > .meta-secondline
         > span:first-child
-          display: none
+          display: inline
 
     +maxWidth768()
       font-size: 90%
