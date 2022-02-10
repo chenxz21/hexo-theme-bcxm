@@ -762,7 +762,7 @@ pjax:
 
 # Inject the css and script (aplayer/meting)
 aplayerInject:
-  enable: false
+  enable: true
   per_page: true
 
 # Snackbar (Toast Notification 彈窗)
@@ -901,9 +901,9 @@ CDN:
   flickr_justified_gallery_css:
 
   # aplayer
-  aplayer_css: 
-  aplayer_js: 
-  meting_js: 
+  aplayer_css: https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css
+  aplayer_js: https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js  
+  meting_js: https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js
 
   # Prism.js
   prismjs_js:
