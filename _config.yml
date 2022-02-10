@@ -2,7 +2,6 @@ menu:
   #首页: / || fas fa-home
   #时间轴: /archives/ || fas fa-clock
   #标签: /tags/ || fas fa-tags
-  #说吧和歌单需要自己进行新建，使用 hexo new page ""
   #说吧: /shuoba || fas fa-comment-dots
   #歌单: /gedan || fas fa-music
   #时光: /artitalk || fa fa-heartbeat
