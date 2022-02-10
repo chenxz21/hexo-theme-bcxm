@@ -209,7 +209,11 @@
 
       > .meta-firstline,
       > .meta-secondline
-        display: inline
+        display: block
+        
+      > .meta-secondline
+        > span:first-child
+          display: none
 
     .post-meta
       &-separator
