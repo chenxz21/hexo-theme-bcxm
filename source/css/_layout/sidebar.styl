@@ -22,8 +22,16 @@
     &.open
       transform: translate3d(-100%, 0, 0)
 
-    & > .avatar-img
-      margin: 20px auto
+    & > .is-center
+        > .avatar-img
+          margin: 20px auto 0 auto
+        > .author-info
+          &__name
+            font-weight: 500
+            font-size: 1.57em
+
+          &__description
+            margin-top: -.42em
       
     & > .card-info-social-icons
       margin: 6px 0 -6px
