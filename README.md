@@ -10,8 +10,6 @@
 
 Demo: 👍 [Btfly](https://www.chenxuezhi.top)
 
-Docs: 📖 [Butterfly Docs(tentative)](https://butterfly.js.org/posts/21cfbf15/)
-
 Based on [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) theme.
 
 ## 💻 Installation
