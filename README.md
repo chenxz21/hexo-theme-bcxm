@@ -16,8 +16,6 @@ Based on [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfl
 
 ### GIT
 
-> If you are in Mainland China, you can download in [Gitee](https://gitee.com/chenxz21/hexo-theme-btfly.git)
-
 ```
 git clone -b main https://github.com/chenxz21/hexo-theme-chenxz.git themes/btfly
 ```
