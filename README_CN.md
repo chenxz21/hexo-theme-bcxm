@@ -6,7 +6,7 @@
 
 # hexo-theme-bcxm
 
-![](![image](https://user-images.githubusercontent.com/62413032/169629829-782defb0-ec96-4abf-ae56-d3f35979b2c5.png))
+![image](https://user-images.githubusercontent.com/62413032/169629829-782defb0-ec96-4abf-ae56-d3f35979b2c5.png)
 
 预览: 👍 [Bcxm](https://www.chenxuezhi.top)
 
