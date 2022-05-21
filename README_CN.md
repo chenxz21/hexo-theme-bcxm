@@ -4,13 +4,11 @@
   <a title="English" href="/README.md">英文</a>
 </div>
 
-# hexo-theme-btfly
+# hexo-theme-bcxm
 
-![](https://cdn.jsdelivr.net/gh/chenxz21/public-picture@main/6.png)
+![](![image](https://user-images.githubusercontent.com/62413032/169629829-782defb0-ec96-4abf-ae56-d3f35979b2c5.png))
 
-预览: 👍 [Btfly](https://www.chenxuezhi.top)
-
-文档: 📖 [Butterfly Docs(暂定)](https://butterfly.js.org/posts/21cfbf15/)
+预览: 👍 [Bcxm](https://www.chenxuezhi.top)
 
 一款基于[hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly)修改的主题
 
@@ -18,19 +16,17 @@
 
 ### Git 安装
 
-> 本仓库同时上传到 [Gitee](https://gitee.com/chenxz21/hexo-theme-btfly.git)，如果你访问GitHub缓慢，可从 Gitee 中下载。
-
 在博客根目录里安装
 ```powershell
-git clone -b main https://github.com/chenxz21/hexo-theme-btfly.git themes/btfly
+git clone -b main https://github.com/chenxz21/hexo-theme-bcxm.git themes/btfly
 ```
 
 ## ⚙ 应用主题
 
-修改hexo配置文件`_config.yml`，把主题改为`btfly`
+修改hexo配置文件`_config.yml`，把主题改为`bcxm`
 
 ```
-theme: btfly
+theme: bcxm
 ```
 
 >如果你没有pug以及stylus的渲染器，请下载安装： npm install hexo-renderer-pug hexo-renderer-stylus --save
