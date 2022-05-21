@@ -899,7 +899,7 @@ CDN:
   ClickShowText:
 
   # fontawesome
-  fontawesome:
+  fontawesome: https://fastly.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css
 
   # Conversion between Traditional and Simplified Chinese
   translate:
