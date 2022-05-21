@@ -847,14 +847,14 @@ CDN:
   disqusjs:
   disqusjs_css:
   utterances:
-  twikoo: https://fastly.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js
+  twikoo:
   waline:
   giscus:
 
   # share
   addtoany:
-  sharejs: https://fastly.jsdelivr.net/npm/social-share.js/dist/js/social-share.min.js
-  sharejs_css: https://fastly.jsdelivr.net/npm/social-share.js/dist/css/share.min.css
+  sharejs:
+  sharejs_css:
 
   # search
   local_search:
@@ -875,16 +875,15 @@ CDN:
   # background effect
   canvas_ribbon:
   canvas_fluttering_ribbon:
-  canvas_nest: https://fastly.jsdelivr.net/npm/butterfly-extsrc@1/dist/canvas-nest.min.js
-
+  canvas_nest:
   lazyload:
   instantpage:
   typed:
   pangu:
 
   # photo
-  fancybox_css_v4: https://fastly.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css
-  fancybox_v4: https://fastly.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js
+  fancybox_css_v4:
+  fancybox_v4:
   medium_zoom:
 
   # snackbar
@@ -894,26 +893,24 @@ CDN:
   # effect
   activate_power_mode:
   fireworks:
-  click_heart: https://fastly.jsdelivr.net/npm/butterfly-extsrc@1/dist/click-heart.min.js
+  click_heart:
   ClickShowText:
 
   # fontawesome
-  fontawesome: https://fastly.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css
-
+  fontawesome:
   # Conversion between Traditional and Simplified Chinese
   translate:
 
   # flickr-justified-gallery
-  flickr_justified_gallery_js: https://fastly.jsdelivr.net/npm/flickr-justified-gallery@2/dist/fjGallery.min.js
-  flickr_justified_gallery_css: https://fastly.jsdelivr.net/npm/flickr-justified-gallery@2/dist/fjGallery.min.css
-
+  flickr_justified_gallery_js:
+  flickr_justified_gallery_css:
   # aplayer
-  aplayer_css: https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.css
-  aplayer_js: https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.js
-  meting_js: https://fastly.jsdelivr.net/npm/meting@2/dist/Meting.min.js
+  aplayer_css:
+  aplayer_js:
+  meting_js:
 
   # Prism.js
-  prismjs_js: https://fastly.jsdelivr.net/npm/prismjs@1.28.0/themes/prism.min.css
+  prismjs_js:
   prismjs_lineNumber_js:
   prismjs_autoloader:
 
