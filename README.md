@@ -4,7 +4,7 @@
   <a title="Chinese" href="/README_CN.md">🇨🇳</a>
 </div>
 
-# hexo-theme-btfly
+# hexo-theme-chenxz
 
 ![](https://cdn.jsdelivr.net/gh/chenxz21/public-picture@main/6.png)
 
