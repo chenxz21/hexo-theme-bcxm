@@ -4,11 +4,11 @@
   <a title="Chinese" href="/README_CN.md">🇨🇳</a>
 </div>
 
-# hexo-theme-chenxz
+# hexo-theme-Bcxm
 
 ![](https://cdn.jsdelivr.net/gh/chenxz21/public-picture@main/6.png)
 
-Demo: 👍 [chenxz](https://www.chenxuezhi.top)
+Demo: 👍 [Bcxm](https://www.chenxuezhi.top)
 
 Based on [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) theme.
 
@@ -17,14 +17,14 @@ Based on [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfl
 ### GIT
 
 ```
-git clone -b main https://github.com/chenxz21/hexo-theme-chenxz.git themes/btfly
+git clone -b main https://github.com/chenxz21/hexo-theme-bcxm.git themes/btfly
 ```
 
 ## ⚙ Configuration
 
  Set theme in the hexo work folder's root config file `_config.yml`: 
 
-> theme: chenxz
+> theme: bcxm
 
  If you don't have pug & stylus renderer, try this: 
 
