@@ -8,7 +8,7 @@
 
 ![](https://cdn.jsdelivr.net/gh/chenxz21/public-picture@main/6.png)
 
-Demo: 👍 [Btfly](https://www.chenxuezhi.top)
+Demo: 👍 [chenxz](https://www.chenxuezhi.top)
 
 Based on [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) theme.
 
@@ -19,14 +19,14 @@ Based on [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfl
 > If you are in Mainland China, you can download in [Gitee](https://gitee.com/chenxz21/hexo-theme-btfly.git)
 
 ```
-git clone -b main https://github.com/chenxz21/hexo-theme-btfly.git themes/btfly
+git clone -b main https://github.com/chenxz21/hexo-theme-chenxz.git themes/btfly
 ```
 
 ## ⚙ Configuration
 
  Set theme in the hexo work folder's root config file `_config.yml`: 
 
-> theme: btfly
+> theme: chenxz
 
  If you don't have pug & stylus renderer, try this: 
 
