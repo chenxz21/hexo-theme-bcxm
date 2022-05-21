@@ -1,9 +1,11 @@
-//- mobile
 #sidebar
   #menu-mask
   #sidebar-menus
-    .avatar-img.is-center
-      img(src=url_for(theme.avatar.img) onerror=`onerror=null;src='${theme.error_img.flink}'` alt="avatar")
+    .is-center
+      .avatar-img
+        img(src=url_for(theme.avatar.img) onerror=`onerror=null;src='${theme.error_img.flink}'` alt="avatar")
+      .author-info__name= config.author
+      .author-info__description!= theme.aside.card_author.description || config.description
     //- .site-data.is-center
     //-   .data-item
     //-     a(href=url_for(config.archive_dir) + '/')
@@ -21,4 +23,13 @@
     //-       .length-num= site.categories.length
           
     //- hr
+    if theme.aside.card_author.button.enable
+      a#card-info-btn(href=theme.aside.card_author.button.link)
+        i(class=theme.aside.card_author.button.icon)
+        span=theme.aside.card_author.button.text
+  
+    if(theme.social)
+        .card-info-social-icons.is-center
+          !=fragment_cache('social', function(){return partial('includes/header/social')})
+    hr
     !=partial('includes/header/menu_item', {}, {cache: true})

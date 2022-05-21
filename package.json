@@ -1,7 +1,7 @@
 {
-  "name": "hexo-theme-btfly",
-  "version": "1.0.0",
-  "description": "",
+  "name": "hexo-theme-bcxm",
+  "version": "1.2.0",
+  "description": "A Simple and Card UI Design theme for Hexo",
   "main": "package.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,23 +9,24 @@
   "keywords": [
     "hexo",
     "theme",
-    "btfly",
-    "Chenxz21",
-    "hexo-theme-btfly"
+    "bcxm",
+    "Card UI Design",
+    "chenxz",
+    "hexo-theme-bcxm"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/chenxz21/hexo-theme-btfly.git"
+    "url": "https://github.com/chenxz21/hexo-theme-bcxm.git"
   },
   "bugs": {
-    "url": "https://github.com/chenxz21/hexo-theme-btfly/issues",
+    "url": "https://github.com/chenxz21/hexo-theme-bcxm/issues",
     "email": "chenxz21@outlook.com"
   },
   "dependencies": {
     "hexo-renderer-stylus": "^2.0.1",
     "hexo-renderer-pug": "^2.0.0"
   },
-  "homepage": "https://www.chenxuezhi.top/",
-  "author": "Chenxz21 <chenxz21@outlook.com>",
+  "homepage": "https://butterfly.js.org/",
+  "author": "Jerry <my@crazywong.com>",
   "license": "Apache-2.0"
 }
