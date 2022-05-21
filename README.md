@@ -6,7 +6,7 @@
 
 # hexo-theme-Bcxm
 
-![](https://cdn.jsdelivr.net/gh/chenxz21/public-picture@main/6.png)
+![](![image](https://user-images.githubusercontent.com/62413032/169629789-d840887c-ed16-4613-b470-22171cc585ed.png))
 
 Demo: 👍 [Bcxm](https://www.chenxuezhi.top)
 
