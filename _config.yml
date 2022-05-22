@@ -905,9 +905,9 @@ CDN:
   flickr_justified_gallery_js:
   flickr_justified_gallery_css:
   # aplayer
-  aplayer_css:
-  aplayer_js:
-  meting_js:
+  aplayer_css: https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.css
+  aplayer_js: https://fastly.jsdelivr.net/npm/aplayer/dist/APlayer.min.js
+  meting_js: https://fastly.jsdelivr.net/npm/meting@2/dist/Meting.min.js
 
   # Prism.js
   prismjs_js:
