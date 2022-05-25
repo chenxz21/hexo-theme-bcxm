@@ -921,7 +921,7 @@ artitalk:
   appId: 
   appKey: 
   path: 
-  js: https://fastly.jsdelivr.net/npm/artitalk
+  js: /js/artitalk.js
   option:
   front_matter: 
     comments: false
