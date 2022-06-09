@@ -20,6 +20,8 @@
 ```powershell
 git clone -b main https://github.com/chenxz21/hexo-theme-bcxm.git themes/btfly
 ```
+>如果你没有pug以及stylus的渲染器，请下载安装： npm install hexo-renderer-pug hexo-renderer-stylus --save
+
 
 ## ⚙ 应用主题
 
@@ -28,5 +30,3 @@ git clone -b main https://github.com/chenxz21/hexo-theme-bcxm.git themes/btfly
 ```
 theme: bcxm
 ```
-
->如果你没有pug以及stylus的渲染器，请下载安装： npm install hexo-renderer-pug hexo-renderer-stylus --save
