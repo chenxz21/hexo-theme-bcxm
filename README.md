@@ -19,6 +19,9 @@ Based on [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfl
 ```
 git clone -b main https://github.com/chenxz21/hexo-theme-bcxm.git themes/btfly
 ```
+ If you don't have pug & stylus renderer, try this: 
+
+> npm install hexo-renderer-pug hexo-renderer-stylus
 
 ## ⚙ Configuration
 
@@ -26,6 +29,4 @@ git clone -b main https://github.com/chenxz21/hexo-theme-bcxm.git themes/btfly
 
 > theme: bcxm
 
- If you don't have pug & stylus renderer, try this: 
 
-> npm install hexo-renderer-pug hexo-renderer-stylus
