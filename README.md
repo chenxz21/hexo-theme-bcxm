@@ -17,7 +17,7 @@ Based on [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfl
 ### GIT
 
 ```
-git clone -b main https://github.com/chenxz21/hexo-theme-bcxm.git themes/btfly
+git clone -b main https://github.com/chenxz21/hexo-theme-bcxm.git themes/bcxm
 ```
  If you don't have pug & stylus renderer, try this: 
 
