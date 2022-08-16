@@ -923,6 +923,6 @@ artitalk:
   path: 
   js: /js/artitalk.js
   option:
-    serverURL: "自定义域名(国际版不要求备案)"
+    serverURL: "自定义域名(国际版不要求备案,国内版必须备案)"
   front_matter: 
     comments: false
