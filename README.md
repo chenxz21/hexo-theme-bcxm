@@ -8,7 +8,7 @@
 
 ![image](https://user-images.githubusercontent.com/62413032/169629789-d840887c-ed16-4613-b470-22171cc585ed.png)
 
-Demo: 👍 [Bcxm](https://www.chenxuezhi.top)
+Demo: 👍 [Bcxm](https://www.bcxm.fun)
 
 Based on [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) theme.
 
